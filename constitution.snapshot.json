@@ -1,8 +1,46 @@
 {
-  "SPEC.md": "f599172ca6aaa54e47bdf3f45e3945b5850b66d6e5e478c3912cc1ab34939863",
-  "constitution.snapshot.json": "3cd541bf2a0e7f79675b2e53f65e6612dd23255213df2a04140ea3b62b3ec0e0",
-  "constitution.threshold.json": "6bd1b1e2adfadaa56923ffadfe2fa3a68071b69461ba783a1d718db97e1c5312",
-  "current_state.tmp": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "package.json": "7c61747cbb2efc32df96fd8c855341a6cf55dc92b7478d8072fe8860dbd2a4cd",
-  "run-vectors.cjs": "1acb0fc35fd2c22c1c07b3f33564edc529a3a9b725f06988721316c2cad12806"
+  "version": "1.5.0",
+  "merkle_root": "ad08ff86648437dbf04cf8eed403247d6dac6e58fc7275198985804b0609f9a5",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "daf0f369b25356b2217989eebc4dad24f6681376a07e1a6ac2a8799a13b02bc6",
+      "leaf": "60c255621a965ddd35fecaccd4cf07b877e73287f6598867373259d17cbf8a8f"
+    },
+    {
+      "path": ".stationary-seal",
+      "sha256": "df48de2fb69bb42f3fe91e56141328d2bcf6930ee35bdb15d9d3ebe6f8d5b04e",
+      "leaf": "d4e6e8c854bea2882873c14113aad59b837bbf4cc3e86b2e2302a4b1c79c7056"
+    },
+    {
+      "path": "constitution.threshold.json",
+      "sha256": "6bd1b1e2adfadaa56923ffadfe2fa3a68071b69461ba783a1d718db97e1c5312",
+      "leaf": "5e958c9932578162ea25063bb0bd99e4d8f8173249953859b6ef3951cfa557de"
+    },
+    {
+      "path": "package.json",
+      "sha256": "2a0e1488d8a8ae492cf02a57e397e2afd02a70ade8bfedae82cb917c89d8f250",
+      "leaf": "2767988c5a6df62e5278a3876aa49f4ec447a93a9dcc6493a91db612bfcaf53d"
+    },
+    {
+      "path": "README.md",
+      "sha256": "f20d04d5eeb6dd6942ab55ae9f354e3674c90d4abe173244ca47282a3fa3f940",
+      "leaf": "cc79753a59081a33f79619f20270e9de50fe4a13a11d5014cbf6c841bdcbb234"
+    },
+    {
+      "path": "run-vectors.cjs",
+      "sha256": "dacac55fa4846267c962d0e5a46d2ba3d81a40de7cd544cd25751407e788c818",
+      "leaf": "e448a8e65fd67fa0cbdbd24c67ce708edbf83bbd817e1ce9a5912f874e6e0458"
+    },
+    {
+      "path": "SPEC.md",
+      "sha256": "a821346006d4dbe4f95da50e09a15ea685ed659bd6875005b266d8df20507760",
+      "leaf": "ba11e874d6d364a756709300a1f583585f43c8e224fc5a46146c35c05133907e"
+    },
+    {
+      "path": "TRUTH.SEAL",
+      "sha256": "57394e144590e2206083abab834a3b060879ae690eee099f87b676efe83a85a1",
+      "leaf": "d53e97377e313ca3d7f5188c152df0fedbfb4d7b3ef069b84b5368b27e092d6f"
+    }
+  ]
 }
